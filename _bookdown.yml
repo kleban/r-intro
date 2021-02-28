@@ -1,0 +1,9 @@
+book_filename: "r-intro"
+delete_merged_file: true
+output_dir: docs
+language:
+  ui:
+    chapter_name: "Розділ "
+repo: https://github.com/kleban/r-intro
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
