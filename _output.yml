@@ -1,16 +1,23 @@
 bookdown::gitbook:
-  css: style.css
+  includes:
+    in_header: inc/google_analytics.html
+  css: [css/style.css, https://use.fontawesome.com/releases/v5.15.2/css/all.css]
+  highlight: tango
   config:
     toc:
+      collapse: subsection
+      scroll_highlight: yes
       before: |
-        <li style="margin:3px 0 3px; font-weight: 600"><a href="./">Вступ до програмування в R</a></li>
+        <li class="toc-logo"><a  style="margin: 7px 0 5px 0;padding:0" href="https://dataclass.org.ua" target="_blank"><img src="https://dataclass.org.ua/assets/template/images/dataclass_logo.png"></a><a href="./" style="font-weight:600; font-size:18px; padding:0">Вступ до R</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Створено з bookdown</a></li>
-    download: ["pdf", "epub"]
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
+        <li><a href="https://dataclass.org.ua" target="blank">Сайт проекту DataCalss</a></li>  
+        <li><a href="https://github.com/kleban/r-intro-pub/issues" style="color:#e53b49" target="blank"><i class="fas fa-bug"></i> Знайшли помилку?</a></li>
+#    download: ["epub", "pdf", "docx"]
+# bookdown::pdf_book:
+#   includes:
+#     in_header: preamble.tex
+#   latex_engine: xelatex
+#   citation_package: natbib
+#   keep_tex: yes
+# bookdown::epub_book: default

@@ -1,7 +1,22 @@
 book_filename: "r-intro"
 delete_merged_file: true
-output_dir: docs
+output_dir: ../r-intro-pub
 language:
+  label:
+    fig: 'Рис. '
+    tab: 'Таблиця '
+    eq: 'Equation '
+    thm: 'Theorem '
+    lem: 'Lemma '
+    cor: 'Corollary '
+    prp: 'Proposition '
+    cnj: 'Conjecture '
+    def: 'Definition '
+    exm: 'Приклад '
+    exr: 'Завдання '
+    proof: 'Proof. '
+    remark: 'Remark. '
+    solution: 'Solution. '
   ui:
     chapter_name: "Розділ "
 repo: https://github.com/kleban/r-intro
