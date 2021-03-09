@@ -13,11 +13,11 @@ bookdown::gitbook:
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Створено з bookdown</a></li>
         <li><a href="https://dataclass.org.ua" target="blank">Сайт проекту DataCalss</a></li>  
         <li><a href="https://github.com/kleban/r-intro-pub/issues" style="color:#e53b49" target="blank"><i class="fas fa-bug"></i> Знайшли помилку?</a></li>
-#    download: ["epub", "pdf", "docx"]
-# bookdown::pdf_book:
-#   includes:
-#     in_header: preamble.tex
-#   latex_engine: xelatex
-#   citation_package: natbib
-#   keep_tex: yes
+    download: ["pdf"]
+bookdown::pdf_book:
+   includes:
+     in_header: preamble.tex
+   latex_engine: xelatex
+   citation_package: natbib
+   keep_tex: yes
 # bookdown::epub_book: default
