@@ -1,0 +1,44 @@
+\begin{thebibliography}{}
+
+\bibitem[Ana, 2021]{Anaconda-site}
+ (2021).
+\newblock {\em Anaconda. The World's Most Popular Data Science Platform}.
+\newblock Anaconda Inc, 206 379 Broadway Ave., Suite 310 New York, NY 10013,
+  USA.
+
+\bibitem[goo, 2021]{google-collab}
+ (2021).
+\newblock {\em Google Colaboratory}.
+\newblock Google LLC.
+
+\bibitem[R-s, 2021]{R-studio-site}
+ (2021).
+\newblock {\em RStudio official website}.
+\newblock RStudio, PBC, 250 Northern Ave, Boston, MA 02210.
+
+\bibitem[vs-, 2021]{vs-code}
+ (2021).
+\newblock {\em Visual Studio Code}.
+\newblock Microsoft.
+
+\bibitem[vis, 2021]{visual-studio}
+ (2021).
+\newblock {\em Visual Studio Community Edition}.
+\newblock Microsoft.
+
+\bibitem[{R Core Team}, 2020]{R-base}
+{R Core Team} (2020).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
+\bibitem[{А.Б. Шипунов, Е.М. Балдин, П.А. Волкова,
+  А.И. Коробейников, С.А. Назарова, С.В.
+  Петров, В.Г. Суфиянов.}, 2012]{R-stats-book}
+{А.Б. Шипунов, Е.М. Балдин, П.А. Волкова, А.И.
+  Коробейников, С.А. Назарова, С.В. Петров,
+  В.Г. Суфиянов.} (2012).
+\newblock {\em Наглядная статистика. Используем
+  R!}
+\newblock ДМК Пресс, Москва, Росія.
+
+\end{thebibliography}

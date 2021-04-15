@@ -1,0 +1,61 @@
+\contentsline {chapter}{Загальна інформація}{5}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Вступ до курсу}{7}{chapter.1}%
+\contentsline {section}{План}{7}{section*.3}%
+\contentsline {section}{\numberline {1.1}Що таке R?}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Історія створення R}{8}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Основи роботи з R}{9}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}R Project}{9}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.1}Завантаження та інсталяція R}{9}{subsubsection.1.3.1.1}%
+\contentsline {subsubsection}{\numberline {1.3.1.2}Перший запуск R GUI}{12}{subsubsection.1.3.1.2}%
+\contentsline {subsubsection}{\numberline {1.3.1.3}Поняття робочого простору}{13}{subsubsection.1.3.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1.4}Поняття робочого каталогу}{15}{subsubsection.1.3.1.4}%
+\contentsline {subsubsection}{\numberline {1.3.1.5}Допомога (help/?)}{17}{subsubsection.1.3.1.5}%
+\contentsline {subsection}{\numberline {1.3.2}Робота з R Studio}{17}{subsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.2.1}Завантаження та інсталяція RStudio Desktop}{17}{subsubsection.1.3.2.1}%
+\contentsline {subsubsection}{\numberline {1.3.2.2}Створення першого проекту в RStudio \{chapter1322\}}{20}{subsubsection.1.3.2.2}%
+\contentsline {subsection}{\numberline {1.3.3}Робота з Jupyter Notebook}{27}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Огляд додаткових IDE та сервісів для роботи з R}{29}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}Основи роботи з пакетами в R}{36}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Команди для роботи з пакетами}{36}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Робота з пакетами в RStudio}{36}{subsection.1.4.2}%
+\contentsline {chapter}{\numberline {2}Базові конструкції мови R}{41}{chapter.2}%
+\contentsline {section}{План}{41}{section*.4}%
+\contentsline {section}{\numberline {2.1}\hyperlink {chapter245}{Введення-виведння даних}}{41}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Оголошення та ініціалізація змінних}{41}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Поняття змінних та оператор присвоєння}{42}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Правила іменування змінних}{43}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Базові типи даних}{43}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Типізація в R}{43}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Перевірка та привдення типів даних}{45}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Оператори}{47}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Арифметичні оператори}{47}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Оператори відношення}{50}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Логічні оператори}{51}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Корисні математичні функції}{52}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Заокруглення чисел (round, ceiling, floor, trunc, signif)}{52}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Послідовності чисел (seq, rep)}{55}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Генерація псевдовипадкових чисел}{55}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Інші математичні функції та константи R}{55}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}Введення-виведння даних}{56}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Основи роботи з даними в R}{57}{chapter.3}%
+\contentsline {section}{План}{57}{section*.5}%
+\contentsline {section}{\numberline {3.1}Набори даних}{57}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Вектори (vectors)}{57}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Поняття та спосіб представлення}{57}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Оголошення векторів}{58}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Операції над векторами}{59}{subsection.3.2.3}%
+\contentsline {chapter}{\numberline {4}Приклади задач та їх розв'язки}{61}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Задачі}{61}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Послідовності}{61}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}Задача}{61}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.2}Задача}{62}{subsubsection.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.1.3}Задача}{62}{subsubsection.4.1.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.1.4}Задача}{62}{subsubsection.4.1.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.1.5}Задача}{62}{subsubsection.4.1.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.1.6}Задача}{62}{subsubsection.4.1.1.6}%
+\contentsline {subsubsection}{\numberline {4.1.1.7}Задача}{63}{subsubsection.4.1.1.7}%
+\contentsline {subsubsection}{\numberline {4.1.1.8}Задача}{63}{subsubsection.4.1.1.8}%
+\contentsline {subsubsection}{\numberline {4.1.1.9}Задача}{63}{subsubsection.4.1.1.9}%
+\contentsline {section}{\numberline {4.2}Рішення задач}{63}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Послідовності}{63}{subsection.4.2.1}%
+\contentsline {chapter}{Джeрела}{65}{chapter*.6}%

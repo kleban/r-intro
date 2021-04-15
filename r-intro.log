@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.28)  15 APR 2021 10:58
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.28)  15 APR 2021 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1082,6 +1082,11 @@ Underfull \hbox (badness 1527) in paragraph at lines 232--233
  []
 
 [8]
+
+Package natbib Warning: Citation `R-stats-book' on page 9 undefined on input li
+ne 234.
+
+
 Underfull \hbox (badness 3965) in paragraph at lines 236--237
 []\TU/Arial(0)/m/n/10 Проект з самого початку розвивався досить повільно, але к
 оли у
@@ -1095,9 +1100,12 @@ Underfull \hbox (badness 1259) in paragraph at lines 236--237
 
 LaTeX Font Info:    Font shape `TU/Arial(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 246.
+
+Package natbib Warning: Citation `R-base' on page 9 undefined on input line 248
+.
+
 Missing character: There is no О in font [lmmono10-regular]:!
 Missing character: There is no С in font [lmmono10-regular]:!
-[9]
 File: images/chapter1/r_gui_1.png Graphic file (type bmp)
 <images/chapter1/r_gui_1.png>
 
@@ -1112,6 +1120,7 @@ Overfull \hbox (214.42494pt too wide) in paragraph at lines 264--264
 [][] 
  []
 
+[9]
 File: images/chapter1/r_gui_3.png Graphic file (type bmp)
 <images/chapter1/r_gui_3.png>
 
@@ -1121,13 +1130,12 @@ Overfull \hbox (246.81885pt too wide) in paragraph at lines 270--270
 
 File: images/chapter1/chrome_download_button.png Graphic file (type bmp)
 <images/chapter1/chrome_download_button.png>
-[10]
+[10] [11]
 Underfull \hbox (badness 2401) in paragraph at lines 284--285
 \TU/Arial(0)/m/n/10 За замовчуванням під час інсталяції пропонується шлях \TU/l
 mtt/m/n/10 C:\Program
  []
 
-[11]
 File: images/chapter1/r_gui_4.png Graphic file (type bmp)
 <images/chapter1/r_gui_4.png>
 
@@ -1142,7 +1150,7 @@ Underfull \hbox (badness 5970) in paragraph at lines 294--295
 m/it/10 I\TU/Arial(0)/m/n/10 nterface) - набір візуальних компонентів для
  []
 
-
+[12]
 Underfull \hbox (badness 6364) in paragraph at lines 296--297
 []\TU/Arial(0)/m/n/10 У вікні \TU/lmtt/m/n/10 R Console \TU/Arial(0)/m/n/10 мож
 на вводити команди/інструкції \TU/lmtt/m/n/10 R\TU/Arial(0)/m/n/10 , що будуть
@@ -1155,12 +1163,13 @@ Overfull \hbox (127.07819pt too wide) in paragraph at lines 301--301
 [][] 
  []
 
-[12] [13]
+
 Underfull \hbox (badness 3039) in paragraph at lines 309--310
 \TU/Arial(0)/m/n/10 його пізніше, щоб не проходти усі етапи виконання коду повт
 орно
  []
 
+[13]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 335.
 
@@ -1239,107 +1248,119 @@ Underfull \hbox (badness 1248) in paragraph at lines 413--414
 ial(0)/m/n/10 в поточній сесії використовують
  []
 
-[15]
 Missing character: There is no ш in font [lmmono10-regular]:!
 Missing character: There is no л in font [lmmono10-regular]:!
 Missing character: There is no я in font [lmmono10-regular]:!
 Missing character: There is no х in font [lmmono10-regular]:!
+[15]
 LaTeX Font Info:    Font shape `TU/Arial(0)/b/it' will be
 (Font)              scaled to size 10.0pt on input line 434.
 
-Overfull \hbox (17.25pt too wide) in paragraph at lines 467--467
-[]\TU/lmtt/m/n/10 ##  [1] "_bookdown.yml"         "_bookdown_files"       "_out
-put.yml"[] 
+Overfull \hbox (27.75pt too wide) in paragraph at lines 467--467
+[]\TU/lmtt/m/n/10 ##  [1] "_bookdown.yml"          "_bookdown_files"        "_o
+utput.yml"[] 
  []
 
 
-Overfull \hbox (33.0pt too wide) in paragraph at lines 467--467
-[]\TU/lmtt/m/n/10 ##  [4] "01-chapter1.Rmd"       "01-chapter1_files"     "01-i
-ntro_files"[] 
+Overfull \hbox (43.5pt too wide) in paragraph at lines 467--467
+[]\TU/lmtt/m/n/10 ##  [4] "01-chapter1.Rmd"        "01-chapter1_files"      "01
+-intro_files"[] 
  []
 
 
-Overfull \hbox (38.25pt too wide) in paragraph at lines 467--467
-[]\TU/lmtt/m/n/10 ##  [7] "02-chapter2.Rmd"       "02-chapter2_files"     "03-c
-hapter3.Rmd"[] 
+Overfull \hbox (48.75pt too wide) in paragraph at lines 467--467
+[]\TU/lmtt/m/n/10 ##  [7] "02-chapter2.Rmd"        "02-chapter2_files"      "03
+-chapter3.Rmd"[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 467--467
+[]\TU/lmtt/m/n/10 ## [10] "06-chapter6.Rmd"        "07-references.Rmd"      "bo
+ok.bib"[] 
  []
 
 
 Overfull \hbox (1.5pt too wide) in paragraph at lines 467--467
-[]\TU/lmtt/m/n/10 ## [10] "06-chapter6.Rmd"       "07-references.Rmd"     "book
-.bib"[] 
+[]\TU/lmtt/m/n/10 ## [13] "css"                    "favicon.ico"            "im
+ages"[] 
  []
 
 
-Overfull \hbox (6.75pt too wide) in paragraph at lines 467--467
-[]\TU/lmtt/m/n/10 ## [16] "inc"                   "index.md"              "inde
-x.Rmd"[] 
+Overfull \hbox (17.25pt too wide) in paragraph at lines 467--467
+[]\TU/lmtt/m/n/10 ## [16] "inc"                    "index.md"               "in
+dex.Rmd"[] 
  []
 
 
-Overfull \hbox (22.5pt too wide) in paragraph at lines 467--467
-[]\TU/lmtt/m/n/10 ## [19] "index.utf8.md"         "packages.bib"          "prea
-mble.tex"[] 
+Overfull \hbox (33.0pt too wide) in paragraph at lines 467--467
+[]\TU/lmtt/m/n/10 ## [19] "index.utf8.md"          "packages.bib"           "pr
+eamble.tex"[] 
  []
 
 
-Overfull \hbox (6.75pt too wide) in paragraph at lines 467--467
-[]\TU/lmtt/m/n/10 ## [22] "r-intro.log"           "r-intro.rds"           "READ
-ME.md"[] 
+Overfull \hbox (17.25pt too wide) in paragraph at lines 467--467
+[]\TU/lmtt/m/n/10 ## [22] "r-intro.log"            "r-intro.rds"            "RE
+ADME.md"[] 
  []
 
 
-Overfull \hbox (22.5pt too wide) in paragraph at lines 467--467
-[]\TU/lmtt/m/n/10 ## [25] "render_commands"       "render6a4719d5bdf.rds" "RInt
-ro.Rproj"[] 
- []
-
-[16]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 486--486
-[]\TU/lmtt/m/n/10 ##  [1] "_bookdown.yml"         "_bookdown_files"       "_out
-put.yml"[] 
+Overfull \hbox (33.0pt too wide) in paragraph at lines 467--467
+[]\TU/lmtt/m/n/10 ## [25] "render_commands"        "render1ed07072671f.rds" "RI
+ntro.Rproj"[] 
  []
 
 
-Overfull \hbox (33.0pt too wide) in paragraph at lines 486--486
-[]\TU/lmtt/m/n/10 ##  [4] "01-chapter1.Rmd"       "01-chapter1_files"     "01-i
-ntro_files"[] 
+Overfull \hbox (27.75pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [1] "_bookdown.yml"          "_bookdown_files"        "_o
+utput.yml"[] 
  []
 
 
-Overfull \hbox (38.25pt too wide) in paragraph at lines 486--486
-[]\TU/lmtt/m/n/10 ##  [7] "02-chapter2.Rmd"       "02-chapter2_files"     "03-c
-hapter3.Rmd"[] 
+Overfull \hbox (43.5pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [4] "01-chapter1.Rmd"        "01-chapter1_files"      "01
+-intro_files"[] 
+ []
+
+
+Overfull \hbox (48.75pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ##  [7] "02-chapter2.Rmd"        "02-chapter2_files"      "03
+-chapter3.Rmd"[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [10] "06-chapter6.Rmd"        "07-references.Rmd"      "bo
+ok.bib"[] 
  []
 
 
 Overfull \hbox (1.5pt too wide) in paragraph at lines 486--486
-[]\TU/lmtt/m/n/10 ## [10] "06-chapter6.Rmd"       "07-references.Rmd"     "book
-.bib"[] 
+[]\TU/lmtt/m/n/10 ## [13] "css"                    "favicon.ico"            "im
+ages"[] 
  []
 
 
-Overfull \hbox (6.75pt too wide) in paragraph at lines 486--486
-[]\TU/lmtt/m/n/10 ## [16] "inc"                   "index.md"              "inde
-x.Rmd"[] 
+Overfull \hbox (17.25pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [16] "inc"                    "index.md"               "in
+dex.Rmd"[] 
  []
 
 
-Overfull \hbox (22.5pt too wide) in paragraph at lines 486--486
-[]\TU/lmtt/m/n/10 ## [19] "index.utf8.md"         "packages.bib"          "prea
-mble.tex"[] 
+Overfull \hbox (33.0pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [19] "index.utf8.md"          "packages.bib"           "pr
+eamble.tex"[] 
  []
 
 
-Overfull \hbox (6.75pt too wide) in paragraph at lines 486--486
-[]\TU/lmtt/m/n/10 ## [22] "r-intro.log"           "r-intro.rds"           "READ
-ME.md"[] 
+Overfull \hbox (17.25pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [22] "r-intro.log"            "r-intro.rds"            "RE
+ADME.md"[] 
  []
 
 
-Overfull \hbox (22.5pt too wide) in paragraph at lines 486--486
-[]\TU/lmtt/m/n/10 ## [25] "render_commands"       "render6a4719d5bdf.rds" "RInt
-ro.Rproj"[] 
+Overfull \hbox (33.0pt too wide) in paragraph at lines 486--486
+[]\TU/lmtt/m/n/10 ## [25] "render_commands"        "render1ed07072671f.rds" "RI
+ntro.Rproj"[] 
  []
 
 Missing character: There is no н in font [lmmono10-regular]:!
@@ -1390,6 +1411,11 @@ Underfull \hbox (badness 8113) in paragraph at lines 491--492
 (0)/m/n/10 варто скористатися функціє
  []
 
+[16]
+
+Package natbib Warning: Citation `R-studio-site' on page 17 undefined on input 
+line 514.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 516--517
 []\TU/Arial(0)/m/n/10 IDE (\TU/lmtt/m/n/10 integrated development environment\T
@@ -1402,7 +1428,6 @@ Underfull \hbox (badness 1460) in paragraph at lines 516--517
 обки
  []
 
-[17]
 File: images/chapter1/rstudio_1.png Graphic file (type bmp)
 <images/chapter1/rstudio_1.png>
 
@@ -1435,6 +1460,7 @@ Underfull \hbox (badness 3364) in paragraph at lines 547--552
 /m/n/10 Connections\TU/Arial(0)/m/n/10 ),
  []
 
+[17] [18] [19]
 File: images/chapter1/rstudio_3.png Graphic file (type bmp)
 <images/chapter1/rstudio_3.png>
 
@@ -1487,7 +1513,6 @@ Underfull \hbox (badness 1715) in paragraph at lines 575--576
 \TU/lmtt/m/n/10 RStudio \TU/Arial(0)/m/n/10 реалізовано концепцію проектів, що
  []
 
-[18] [19] [20] [21] [22]
 File: images/chapter1/rstudio_6.png Graphic file (type bmp)
 <images/chapter1/rstudio_6.png>
 
@@ -1502,7 +1527,7 @@ Overfull \hbox (61.60551pt too wide) in paragraph at lines 588--588
 [][] 
  []
 
-
+[20] [21] [22] [23]
 Underfull \hbox (badness 3219) in paragraph at lines 591--592
 []\TU/Arial(0)/m/n/10 Після кліку на \TU/lmtt/m/n/10 Create Project \TU/Arial(0
 )/m/n/10 буде створено папку за попередньо
@@ -1515,7 +1540,7 @@ Overfull \hbox (63.08656pt too wide) in paragraph at lines 594--594
 [][] 
  []
 
-[23] [24] [25]
+
 Underfull \hbox (badness 1215) in paragraph at lines 602--603
 []\TU/Arial(0)/m/n/10 Написати програму, що генерує вектор з 20-ти випадкових
  []
@@ -1526,6 +1551,7 @@ Underfull \hbox (badness 2653) in paragraph at lines 605--606
 ] матиме
  []
 
+[24] [25]
 Missing character: There is no т in font [lmmono10-regular]:!
 Missing character: There is no о in font [lmmono10-regular]:!
 Missing character: There is no ч in font [lmmono10-regular]:!
@@ -1549,7 +1575,6 @@ Overfull \hbox (4.83116pt too wide) in paragraph at lines 618--619
 /Arial(0)/b/n/10 псевдо\TU/Arial(0)/m/n/10 генератор
  []
 
-[26]
 File: 01-chapter1_files/figure-latex/unnamed-chunk-22-1.pdf Graphic file (type 
 pdf)
 <use 01-chapter1_files/figure-latex/unnamed-chunk-22-1.pdf>
@@ -1585,17 +1610,21 @@ Underfull \hbox (badness 1005) in paragraph at lines 669--670
 /lmtt/m/n/10 пам[]яті\TU/Arial(0)/m/n/10 . До
  []
 
-
+[26]
 Underfull \hbox (badness 1895) in paragraph at lines 678--679
 []\TU/Arial(0)/m/n/10 Використання ноутбуків у навчальному процесі дозволяє опи
 сати не
  []
 
-[27] [28]
+
 Underfull \hbox (badness 7595) in paragraph at lines 680--681
 []\TU/Arial(0)/m/n/10 Розгялнемо процес інсталяції та запуску \TU/lmtt/m/n/10 A
 naconda \TU/Arial(0)/m/n/10 (середовище з
  []
+
+
+Package natbib Warning: Citation `Anaconda-site' on page 27 undefined on input 
+line 682.
 
 
 Underfull \hbox (badness 1043) in paragraph at lines 684--685
@@ -1603,6 +1632,7 @@ Underfull \hbox (badness 1043) in paragraph at lines 684--685
 пераційну
  []
 
+[27] [28]
 File: images/chapter1/anaconda_1.png Graphic file (type bmp)
 <images/chapter1/anaconda_1.png>
 
@@ -1646,18 +1676,35 @@ Overfull \hbox (177.56335pt too wide) in paragraph at lines 717--717
  []
 
 
+Package natbib Warning: Citation `vs-code' on page 29 undefined on input line 7
+25.
+
+
 Underfull \hbox (badness 5374) in paragraph at lines 725--726
 []\TU/Arial(0)/b/n/10 Visual Studio Code \TU/Arial(0)/m/n/10 - безкоштовний ред
 актор коду від \TU/lmtt/m/n/10 Microsoft\TU/Arial(0)/m/n/10 ,
  []
 
-[29] [30] [31] [32]
+
+Underfull \hbox (badness 2856) in paragraph at lines 725--726
+\TU/Arial(0)/m/n/10 орієнтовний на велику кількість мов програмування та фреймв
+орків
+ []
+
 File: images/chapter1/vs_code.png Graphic file (type bmp)
 <images/chapter1/vs_code.png>
 
 Overfull \hbox (334.19215pt too wide) in paragraph at lines 728--728
 [][] 
  []
+
+
+Package natbib Warning: Citation `visual-studio' on page 29 undefined on input 
+line 731.
+
+
+Package natbib Warning: Citation `google-collab' on page 29 undefined on input 
+line 733.
 
 File: images/chapter1/google_collab.png Graphic file (type bmp)
 <images/chapter1/google_collab.png>
@@ -1673,7 +1720,7 @@ Overfull \hbox (301.0313pt too wide) in paragraph at lines 744--744
 [][] 
  []
 
-[33] [34] [35]
+[29] [30] [31] [32] [33] [34] [35]
 Underfull \hbox (badness 1558) in paragraph at lines 757--758
 \TU/Arial(0)/m/n/10 Своєю популярністю \TU/lmtt/m/n/10 R \TU/Arial(0)/m/n/10 за
 вдячує, у тому числі, і можливості швидко
@@ -1690,6 +1737,10 @@ Underfull \hbox (badness 1231) in paragraph at lines 757--758
 \TU/Arial(0)/m/n/10 готових функції. Такі функції обєднуються у пакети та публі
 куються
  []
+
+
+Package natbib Warning: Citation `R-base' on page 36 undefined on input line 76
+1.
 
 
 Underfull \hbox (badness 2828) in paragraph at lines 761--762
@@ -1716,6 +1767,7 @@ Overfull \hbox (228.00383pt too wide) in paragraph at lines 791--791
 [][] 
  []
 
+[36]
 File: images/chapter1/packages_2.png Graphic file (type bmp)
 <images/chapter1/packages_2.png>
 
@@ -1723,7 +1775,7 @@ Overfull \hbox (232.50398pt too wide) in paragraph at lines 797--797
 [][] 
  []
 
-[36]
+
 Underfull \hbox (badness 5578) in paragraph at lines 800--801
 []\TU/lmtt/m/n/10 RStudio \TU/Arial(0)/m/n/10 дозволяє також переглянути інстал
 ьовані пакети/бібліотеки,
@@ -2013,141 +2065,4 @@ Underfull \hbox (badness 1097) in paragraph at lines 1382--1383
 
 
 Underfull \hbox (badness 2189) in paragraph at lines 1393--1394
-\TU/Arial(0)/m/n/10 собою та повертають значення логічного типу \TU/lmtt/m/n/10
- TRUE\TU/Arial(0)/m/n/10 , якщо результат
- []
-
-[50]
-Overfull \hbox (2.57979pt too wide) in paragraph at lines 1502--1503
-[]\TU/Arial(0)/m/n/10 Важливо розуміти відмінності між цими операторами вміти в
-икористовувати
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[51]
-Underfull \hbox (badness 1087) in paragraph at lines 1528--1529
-\TU/Arial(0)/m/n/10 у результатах обчислень. Для задач бізнесу або технічних пр
-оцесів
- []
-
-
-LaTeX Font Warning: Font shape `TU/lmtt/bx/it' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 1530.
-
-
-
-Underfull \hbox (badness 1735) in paragraph at lines 1534--1535
-\TU/lmtt/m/n/10 & >=0.5 \TU/Arial(0)/m/n/10 (не знаю як називається науково) ви
-користовується функція
- []
-
-[52] [53]
-Missing character: There is no м in font [lmmono10-regular]:!
-Missing character: There is no л in font [lmmono10-regular]:!
-Missing character: There is no н in font [lmmono10-regular]:!
-
-Underfull \hbox (badness 2469) in paragraph at lines 1704--1705
-[]\TU/Arial(0)/m/n/10 Інколи виникає потреба заокруглити не десяткову частину ч
-исла, а
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 1704--1705
-\TU/Arial(0)/m/n/10 число \TU/lmtt/m/n/10 11 547 741.3 \TU/Arial(0)/m/n/10 і на
-м потрібно коротко його записати як \TU/lmtt/m/n/10 11.5 млн
- []
-
-[54]
-Overfull \hbox (59.25pt too wide) in paragraph at lines 1747--1747
-[]\TU/lmtt/m/n/10 ##  [1] 0.6241194 0.1438434 0.5703844 0.5251220 0.7093778 0.7
-723589 0.4359051[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1762--1762
-[]\TU/lmtt/m/n/10 ##   [1]  50  84   4  86  77  70   9   2  95  24  15  62  71 
- 78  93  29  81  44[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1762--1762
-[]\TU/lmtt/m/n/10 ##  [19]  30  19  32   6  99  11  40  27  28  66  94  75  87 
- 69  47  42  46  68[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1762--1762
-[]\TU/lmtt/m/n/10 ##  [37]   8  90  59  64  36  72  39  88  57  63  58  55 100 
- 65  49  31  26  54[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1762--1762
-[]\TU/lmtt/m/n/10 ##  [55]  18  98  45  76  96  53   5  74  37  73   3  82  14 
- 38  51  92   7  21[] 
- []
-
-
-Overfull \hbox (75.0pt too wide) in paragraph at lines 1762--1762
-[]\TU/lmtt/m/n/10 ##  [73]  12  17  56  83  52  89  80  34  48  43  22  91  61 
- 13  79  60  33   1[] 
- []
-
-
-Underfull \hbox (badness 5189) in paragraph at lines 1767--1768
-\TU/Arial(0)/m/n/10 реалізованих функцій з різних сфер науки, бізнесу, техніки 
-тощо.
- []
-
-
-Underfull \hbox (badness 3000) in paragraph at lines 1767--1768
-\TU/Arial(0)/m/n/10 Прочитати про них можна з офіційної документації пакетів, у
- яких
- []
-
-[55] [56]
-Chapter 3.
-[57
-
-]
-Underfull \hbox (badness 1681) in paragraph at lines 1874--1875
-[]\TU/Arial(0)/m/n/10 Елементами вектора також послідовності, створені на за до
-помогою
- []
-
-[58] [59] [60
-
-]
-Chapter 4.
-[61]
-Overfull \hbox (6.73474pt too wide) in paragraph at lines 2009--2012
-\TU/Arial(0)/m/n/10 Знайти найбільший спільний дільник двох натуральних чисел, 
-використавши
- []
-
-[62] [63] [64] (./r-intro.bbl [65
-
-] [66
-
-]
-Underfull \hbox (badness 1867) in paragraph at lines 37--43
-[]\TU/Arial(0)/m/n/10 А.Б. Шипунов, Е.М. Балдин, П.А. Волкова, А.И. Коробейнико
-в, С.А.
- []
-
-) [67] (./r-intro.aux)
-Package rerunfilecheck Info: File `r-intro.out' has not changed.
-(rerunfilecheck)             Checksum: 101BB97E748E57923797BC167FF10FD6;4247.
- ) 
-Here is how much of TeX's memory you used:
- 17047 strings out of 478931
- 306534 string characters out of 5865140
- 769292 words of memory out of 5000000
- 36605 multiletter control sequences out of 15000+600000
- 410017 words of font info for 97 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 98i,6n,125p,633b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on r-intro.pdf (67 pages).
+\TU/Arial(0)/m/n/10 собою та повертають зна�
