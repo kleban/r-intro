@@ -1,6 +1,6 @@
 book_filename: "r-intro"
 delete_merged_file: true
-output_dir: ../r-intro-pub
+output_dir: _book\
 language:
   label:
     fig: 'Рис. '
